@@ -1,0 +1,23 @@
+{
+  "name": "chalk-beckton",
+  "version": "1.0.0",
+  "description": "Adam's B-day Song Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OTCCIS131/chalk-beckton.git"
+  },
+  "author": "Bec Braughton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OTCCIS131/chalk-beckton/issues"
+  },
+  "homepage": "https://github.com/OTCCIS131/chalk-beckton#readme",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "save": "^2.3.1"
+  }
+}
